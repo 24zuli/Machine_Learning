@@ -17,6 +17,29 @@ i) Regression:-
 -> Regression is used to understand the relationship between dependent and independent variables.
 -> Predicts the continuos numerical values.
 
+Regression Models:
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Support Vector Regression
+- Decision Tree Regression
+- Random Forest Regression
+- Gradient Boosting Regression
+- K-Nearest Neighbors Regression (KNN)
+
 ii) Classification:-
 -> Classification uses an algorithm to accurately assign test data into specific categories.
 -> It recognize the entities from the dataset and conclude with likelihood of that entity.
+
+Classification Models
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Decision Tree
+- Random Forest
+- Naive Bayes
+- Gradient Boosting Machines (GBM)
+
+
+
+

@@ -1,13 +1,22 @@
-Machine Learning(ML)
+Machine Learning(ML)🚀🤖
 
 What is ML:-
 -> It enable computers to learn from the data and take decisions like humans or make predictions without any explicit program.
 
 Types of ML:-
-i) Supervised Learning
-ii) Unsupervised Learning
-iii) Reinforcement Learning
+1) Supervised Learning
+2) Unsupervised Learning
+3) Reinforcement Learning
 
-i) Supervised Learning:-
+1) Supervised Learning:-
 -> Models can predict the answers after seeing a lots of data with the correct answer.
 
+There are two categories of Supervised Learning..
+
+i) Regression:-
+-> Regression is used to understand the relationship between dependent and independent variables.
+-> Predicts the continuos numerical values.
+
+ii) Classification:-
+-> Classification uses an algorithm to accurately assign test data into specific categories.
+-> It recognize the entities from the dataset and conclude with likelihood of that entity.

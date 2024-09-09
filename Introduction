@@ -1,9 +1,13 @@
 Machine Learning(ML)
 
 What is ML:-
--> It enables computers to learn from the data and take decisions like humans or make predictions without any explicit program.
+-> It enable computers to learn from the data and take decisions like humans or make predictions without any explicit program.
 
 Types of ML:-
--> Supervised Learning
--> Unsupervised Learning
--> Reinforcement Learning
+i) Supervised Learning
+ii) Unsupervised Learning
+iii) Reinforcement Learning
+
+i) Supervised Learning:-
+-> Models can predict the answers after seeing a lots of data with the correct answer.
+-> 
